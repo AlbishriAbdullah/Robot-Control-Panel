@@ -7,4 +7,8 @@ Control Panel:
 
 ![image](https://github.com/AlbishriAbdullah/Robot-Control-Panel/assets/152159098/10b28517-d085-4adb-85b0-1594d830d3c6)
 
+Database:
+
+![image](https://github.com/AlbishriAbdullah/Robot-Control-Panel/assets/152159098/059ee5ae-5ddb-4079-ad67-386c60fa90d1)
+
 
